@@ -20,4 +20,4 @@ backup/
 # uploads
 uploads/
 .claude/
-todo-tui
+/todo-tui
