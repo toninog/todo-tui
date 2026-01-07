@@ -25,7 +25,7 @@ A terminal user interface (TUI) application for managing tasks, built with Go an
 ### Build from source
 
 ```bash
-git clone https://github.com/blackraven/todo-tui.git
+git clone https://github.com/toninog/todo-tui.git
 cd todo-tui
 go build -o todo-tui ./cmd/todo-tui
 ```
