@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+
+# Node.js
+node_modules/
+.next/
+
+# Data
+data/redis_data/dump.rdb
+
+# backup
+backup/
+*.dump
+[backup_file.dump]
+
+# uploads
+uploads/
+.claude/
+todo-tui
